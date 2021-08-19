@@ -1,0 +1,59 @@
+plate_number,Username,Gender,Nationality,Licence,user_id, source,category,manufacture,type,color,registration_date,pending_fines,insurance_number,provider,valid_date,age,bmi,children,smoker,region,charges,Sl. No.
+3JOH22A,Ajith,Male,Indian,101,2, Petrol,Car, Toyota,Muv, Red,12-06-2019,0,401,United India Insurance Company LTD,13-07-2023,19,27.9,0,yes,southwest,16884.924,1
+BG#224.NZ,Eashwar,Male,Indian,102,3, Petrol,Car, Honda,Coupe, Yellow,13-06-2019,0,402,United India Insurance Company LTD,12-06-2020,18,33.77,1,no,southeast,1725.5523,2
+YJ65YOM,Yogesh,Male,Indian,103,4, Diesel,Car, Ford,Luxury, Blue,16-05-2019,299,403,United India Insurance Company LTD,23-10-2020,28,33,3,no,southeast,4449.462,3
+MH 20 EE 7598,Hari,Male,Indian,104,5, Diesel,Car, Nissan,Luxury, Blue,10-10-2019,0,404,United India Insurance Company LTD,17-10-2024,33,22.705,0,no,northwest,21984.47061,4
+KL 65K 7111,Bharath,Male,Indian,105,6, Diesel,Car, Honda,Luxury, Red,17-05-2017,0,405,United India Insurance Company LTD,05-06-2025,32,28.88,0,no,northwest,3866.8552,5
+HR26 AZ 5927,Nisha,Female,Indian,106,7, Diesel,Car, Ford,Suv, Yellow,15-10-2020,0,406,United India Insurance Company LTD,10-09-2024,31,25.74,0,no,southeast,3756.6216,6
+HR26 DK8337,Sanjay,Male,Indian,107,8, Petrol,Car, Volvo,Convertibles, Green,09-06-2019,799,407,United India Insurance Company LTD,09-05-2020,46,33.44,1,no,southeast,8240.5896,7
+YJ65 YOM,Rashmika,Female,Indian,108,9, Diesel,Car, Nissan,Hatchback, Yellow,03-03-2021,0,408,United India Insurance Company LTD,05-06-2024,37,27.74,3,no,northwest,7281.5056,8
+CZI7 KOD,Shiva Alagesh,Male,Indian,109,10, Diesel,Car, Volvo,Luxury, Red,02-03-2021,0,409,United India Insurance Company LTD,07-06-2023,37,29.83,2,no,northeast,6406.4107,9
+TN 45 BA 1065,Kavin,Male,Indian,110,11, Diesel,Car, Ford,Hatchback, Yellow,02-03-2021,0,410,United India Insurance Company LTD,10-03-2021,60,25.84,0,no,northwest,28923.13692,10
+TN 30 BH45,Losliya,Female,Indian,111,12, Diesel,Car, Nissan,Hybrids, Blue,05-01-2016,77,411,United India Insurance Company LTD,23-04-2020,25,26.22,0,no,northeast,2721.3208,11
+KL 58 AB 3333,Malar,Female,Indian,112,13, Diesel,Car, Ford,Luxury, Red,03-03-2021,0,412,United India Insurance Company LTD,26-03-2021,62,26.29,0,yes,southeast,27808.7251,12
+KA 30 M 9901,Rajesh,Male,Indian,113,14, Diesel,Car, Volvo,Luxury, Blue,15-03-2021,0,413,United India Insurance Company LTD,31-03-2021,23,34.4,0,no,southwest,1826.843,13
+MH 15BD8877,Kamal,Male,Indian,114,15, Petrol,Car, Nissan,Luxury, Yellow,10-04-2021,0,414,United India Insurance Company LTD,27-10-2021,56,39.82,0,no,southeast,11090.7178,14
+TN 21 BZ 0752,Suresh,Male,Indian,115,16, Petrol,Car, TATA,Hybrids, Yellow,04-11-2020,0,415,United India Insurance Company LTD,22-09-2021,27,42.13,0,yes,southeast,39611.7577,15
+TN O9TC0131,Manju,Female,Indian,116,17, Petrol,Car, Volvo,Suv, Red,02-03-2015,799,416,United India Insurance Company LTD,04-04-2020,19,24.6,1,no,southwest,1837.237,16
+MH 04 JM8765,Kaviya,Female,Indian,117,18, Diesel,Car, TATA,Convertibles, Blue,29-10-2010,78,417,United India Insurance Company LTD,27-08-2020,52,30.78,1,no,northeast,10797.3362,17
+MY70BMW,Dhivya,Female,Indian,118,19, Diesel,Car, Honda,Sedans, Green,16-03-2014,999,418,United India Insurance Company LTD,26-11-2020,23,23.845,0,no,northeast,2395.17155,18
+MH 04 JM 8765,Priya,Female,Indian,119,20, Diesel,Car, Nissan,Muv, Red,07-03-2021,0,419,United India Insurance Company LTD,14-03-2021,56,40.3,0,no,southwest,10602.385,19
+MH20 EJ 0365,Ashwin,Male,Indian,120,21, Diesel,Car, Ford,Hybrids, Yellow,08-03-2021,0,420,United India Insurance Company LTD,21-04-2022,30,35.3,0,yes,southwest,36837.467,20
+KL 18 N 6999,Ranjith,Male,Indian,121,22, Petrol,Car, Ford,Muv, Yellow,15-12-2020,0,421,United India Insurance Company LTD,23-10-2021,60,36.005,0,no,northeast,13228.84695,21
+KL 58 AB 3333,Kamesh,Male,Indian,122,23, Petrol,Car, Honda,Hatchback, Red,28-03-2021,0,422,United India Insurance Company LTD,29-01-2025,30,32.4,1,no,southwest,4149.736,22
+TN66U8215,Mani,Male,Indian,123,24, Diesel,Car, Toyota,Hatchback, Red,10-03-2021,0,423,United India Insurance Company LTD,01-05-2021,18,34.1,0,no,southeast,1137.011,23
+MH 14GA5284,Daya,Female,Indian,124,25, Petrol,Car, Toyota,Convertibles, Yellow,02-03-2021,0,424,United India Insurance Company LTD,20-01-2022,34,31.92,1,yes,northeast,37701.8768,24
+15-LK-10898,Nisha,Female,Indian,125,26, Petrol,Car, Honda,Luxury, Green,11-03-2021,0,425,United India Insurance Company LTD,25-12-2021,37,28.025,2,no,northwest,6203.90175,25
+KL O5 AB 7000,Keerthana,Female,Indian,126,27, Diesel,Car, Volvo,Hybrids, Red,13-03-2021,0,426,United India Insurance Company LTD,27-07-2022,59,27.72,3,no,southeast,14001.1338,26
+KAO3NA 8385,Sandy,Male,Indian,127,28, Diesel,Car, TATA,Minivans, Blue,05-06-2013,999,427,United India Insurance Company LTD,14-05-2019,63,23.085,0,no,northeast,14451.83515,27
+KL 65H 4383,mohan,Male,Indian,128,29, Diesel,Car, Toyota,Coupe, Red,12-03-2021,0,428,United India Insurance Company LTD,14-06-2024,55,32.775,2,no,northwest,12268.63225,28
+MH20 DV2363,Ramya,Female,Indian,129,30, Diesel,Car, Honda,Hatchback, Blue,07-10-2013,299,429,United India Insurance Company LTD,07-06-2019,23,17.385,1,no,northwest,2775.19215,29
+HR26 BP3543,Kani,Female,Indian,130,31, Diesel,Car, Honda,Sedans, Yellow,04-03-2021,0,430,United India Insurance Company LTD,16-10-2024,31,36.3,2,yes,southwest,38711,30
+KL 65K 7111,Amutha,Female,Indian,131,32, Diesel,Car, Volvo,Minivans, Blue,04-03-2021,0,431,United India Insurance Company LTD,14-06-2025,22,35.6,0,yes,southwest,35585.576,31
+KL55R 2473,Anbu,Male,Indian,132,33, Diesel,Car, Nissan,Hatchback, Yellow,12-03-2021,0,432,United India Insurance Company LTD,19-05-2023,18,26.315,0,no,northeast,2198.18985,32
+TN74AH1413,Sahoo,Male,Indian,133,34, Diesel,Car, Ford,Hybrids, Red,14-02-2021,0,433,United India Insurance Company LTD,23-12-2021,19,28.6,5,no,southwest,4687.797,33
+GJW-1-15-A-1138,Narasiman,Male,Indian,134,35, Diesel,Car, Ford,Hybrids, Blue,03-02-2021,0,434,United India Insurance Company LTD,31-12-2021,63,28.31,0,no,northwest,13770.0979,34
+KL 16 J 3636,Naveen,Male,Indian,135,36, Petrol,Car, Toyota,Luxury, Yellow,08-02-2021,0,435,United India Insurance Company LTD,13-05-2022,28,36.4,1,yes,southwest,51194.55914,35
+HR.26. BR9044,Rani,Female,Indian,136,37, Diesel,Car, Volvo,Minivans, Yellow,11-03-2012,999,436,United India Insurance Company LTD,03-03-2020,19,20.425,0,no,northwest,1625.43375,36
+KLO7BF5000,Moni,Female,Indian,137,38, Diesel,Car, Nissan,Hatchback, Blue,10-11-2020,0,437,United India Insurance Company LTD,06-05-2022,62,32.965,3,no,northwest,15612.19335,37
+KL 1OAW2814,Janu,Female,Indian,138,39, Diesel,Car, Honda,Muv, Red,11-03-2021,0,438,United India Insurance Company LTD,07-03-2021,26,20.8,0,no,southwest,2302.3,38
+HR26BP3543,Anitha,Female,Indian,139,40, Diesel,Car, Toyota,Luxury, Yellow,05-11-2012,554,439,United India Insurance Company LTD,01-10-2020,35,36.67,1,yes,northeast,39774.2763,39
+HR 26 CT 6702,Maha,Female,Indian,140,41, Diesel,Car, Honda,Hatchback, Yellow,04-09-2020,0,440,United India Insurance Company LTD,28-10-2021,60,39.9,0,yes,southwest,48173.361,40
+TN07BU54:27,Geetha,Female,Indian,141,42, Petrol,Car, Toyota,Convertibles, Red,27-07-2020,0,441,United India Insurance Company LTD,26-11-2021,24,26.6,0,no,northeast,3046.062,41
+MH20BN 3525,Yazhini,Female,Indian,142,43, Diesel,Car, TATA,Convertibles, Green,02-12-2011,999,442,United India Insurance Company LTD,08-04-2020,31,36.63,2,no,southeast,4949.7587,42
+MH14DT8831,Lavaya,Female,Indian,143,44, Diesel,Car, Nissan,Muv, Red,19-03-2021,0,443,United India Insurance Company LTD,08-07-2021,41,21.78,1,no,southeast,6272.4772,43
+HR 26 CT 6702,Sarala,Female,Indian,144,45, Petrol,Car, Toyota,Hybrids, Blue,12-03-2021,0,444,United India Insurance Company LTD,22-01-2022,37,30.8,2,no,southeast,6313.759,44
+KL.01Cc 50,Yamini,Female,Indian,145,46, Petrol,Car, Ford,Hybrids, Red,16-07-2020,0,445,United India Insurance Company LTD,30-03-2022,38,37.05,1,no,northeast,6079.6715,45
+MH20 BN3525,Priya,Female,Indian,146,47, Diesel,Van, Toyota,Minivans, Blue,13-11-2010,299,446,United India Insurance Company LTD,19-03-2020,55,37.3,0,no,southwest,20630.28351,46
+MH14EU3498,Sivaraj,Male,Indian,147,48, Diesel,Van, Nissan,Minivans, Red,23-12-2020,0,447,United India Insurance Company LTD,06-08-2021,18,38.665,2,no,northeast,3393.35635,47
+KL 60N 5344,Monika,Female,Indian,148,49, Diesel,Car, Honda,Suv, Red,12-03-2021,0,448,United India Insurance Company LTD,20-03-2021,28,34.77,0,no,northwest,3556.9223,48
+MH 20 EE7597,Ajay,Male,Indian,149,50, Diesel,Truck, Volvo,Suv, Yellow,11-03-2013,999,449,United India Insurance Company LTD,02-12-2018,60,24.53,0,no,southeast,12629.8967,49
+HR 26 DA2330,Valli,Female,Indian,150,51, Diesel,Car, Toyota,Muv, Yellow,04-06-2017,799,450,United India Insurance Company LTD,06-08-2020,36,35.2,1,yes,southeast,38709.176,50
+TN74 AL507,Tamil,Female,Indian,151,52, Diesel,Car, Ford,Suv, Yellow,11-03-2016,799,451,United India Insurance Company LTD,28-08-2020,18,35.625,0,no,northeast,2211.13075,51
+DL8CAF5030,Jeni,Female,Indian,152,53, Petrol,Van, Nissan,Minivans, Red,13-03-2021,0,452,United India Insurance Company LTD,21-08-2021,21,33.63,2,no,northwest,3579.8287,52
+MH14 EU3498,Raju,Male,Indian,153,54, Diesel,Van, Ford,Luxury, Yellow,02-03-2013,999,453,United India Insurance Company LTD,29-06-2019,48,28,1,yes,southwest,23568.272,53
+KL 21S 8086,Sharmi,Female,Indian,154,55, Petrol,Truck, Honda,Suv, Red,30-12-2020,0,454,United India Insurance Company LTD,12-05-2022,36,34.43,0,yes,southeast,37742.5757,54
+MH12 DE1433,Harini,Female,Indian,155,56, Petrol,Car, Honda,Suv, Yellow,10-03-2010,799,455,United India Insurance Company LTD,22-09-2017,40,28.69,3,no,northwest,8059.6791,55
+TN54R13146,Lakshmi,Female,Indian,156,57, Diesel,Car, Toyota,Suv, Red,12-03-2011,77,456,United India Insurance Company LTD,12-10-2018,58,36.955,2,yes,northwest,47496.49445,56
+KL 21S8086,Kousik,Male,Indian,157,58, Diesel,Van, Volvo,Hatchback, Blue,18-03-2012,799,457,United India Insurance Company LTD,16-10-2019,58,31.825,2,no,northeast,13607.36875,57
+GJ 18BF0154,Dhayalaraj,Male,Indian,158,59, Diesel,Car, Volvo,Luxury, Red,03-03-2013,1999,458,United India Insurance Company LTD,17-09-2020,18,31.68,2,yes,southeast,34303.1672,58
